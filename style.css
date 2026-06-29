@@ -1,7 +1,12 @@
 body{
     background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 30px;
 }
 
 section{
     border-radius: 10px;
+    border: 1px solid gray;
+    padding: 15px;
+    margin-bottom: 15px;
 }
